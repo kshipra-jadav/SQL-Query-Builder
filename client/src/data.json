@@ -1,0 +1,18 @@
+[
+    {
+        "id": "0",
+        "text": "SELECT"
+    },
+    {
+        "id": "1",
+        "text": "*"
+    },
+    {
+        "id": "2",
+        "text": "FROM"
+    },
+    {
+        "id": "3",
+        "text": "EMPLOYEES"
+    }
+]

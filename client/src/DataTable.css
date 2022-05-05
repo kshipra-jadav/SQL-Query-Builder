@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.dataTable{
+    width: 50%;
+    height: 50%;
+    font-size: large;
+    font-family: 'Poppins';
+    text-align: center;
+    
+}
+
+.tableWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

@@ -1,0 +1,29 @@
+.qBox{
+  width: 150px;
+  height: 80%;
+  color: white;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  font-size: larger;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1{
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2{
+  background-color: red;
+}
+
+.mainContainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
